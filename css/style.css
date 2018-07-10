@@ -2,7 +2,7 @@
   text-align: center;
 }
 .background{
-  background-image:url("plano.png");
+  background-image:url("../img/plano.png");
   background-position: 30% 45%;
   background-size: cover;
 }
