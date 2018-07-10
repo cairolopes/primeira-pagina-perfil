@@ -1,0 +1,11 @@
+.element-in-center{
+  text-align: center;
+}
+.background{
+  background-image:url("plano.png");
+  background-position: 30% 45%;
+  background-size: cover;
+}
+.color-text{
+  color:#2d2c2d;
+}
