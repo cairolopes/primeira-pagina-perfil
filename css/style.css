@@ -1,11 +1,29 @@
 .element-in-center{
   text-align: center;
+  margin-bottom: 50px;
+}
+.img-circle{
+
 }
 .background{
   background-image:url("../img/plano.png");
   background-position: 30% 45%;
   background-size: cover;
 }
+.color-background{
+  background: linear-gradient( to bottom right , #a3bad2 , #ecc8c7)
+  /* background-color: #a5b9d1; */
+
+}
 .color-text{
-  color:#2d2c2d;
+  /* font-family:arial; */
+  font-weight:bold;
+  color:#5a5872 ;
+}
+.color-text2{
+  color: #5a5872;
+}
+header .intro-text{
+  padding-top: 250px;
+  padding-bottom: 280px;
 }
